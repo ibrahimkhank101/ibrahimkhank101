@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Muhammad Ibrahim
+### 👋 Hi, I'm Ibrahim Khan
 
 <a href="https://www.linkedin.com/in/muhammad-ibrahim-a023ba30b/">
   <img align="left" alt="Ibrahim's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,6 +18,7 @@ I'm a 17-year-old pre-med student and aspiring AI engineer, applying my backgrou
 
 -   🏆 **[International Computer Science Competition (ICSC) 2025](https://github.com/ibrahimkhank101/ICSC-2025-Qualification-Round)**: My successful submission for the Qualification Round, where I solved 5/5 problems and qualified for the pre-finals with special honours.
 -   🧠 **[Stanford University Project: Nose Touch Detection](https://github.com/ibrahimkhank101/nose-touch-detection)**: My final project for the **Stanford CIP 2025**, a real-time computer vision system built with OpenCV and MediaPipe to assist in post-operative patient care.
+
 ---
 
 ### 📚 Foundational Skills Repositories
@@ -31,6 +32,6 @@ These repositories document my hands-on learning journey through the core Python
 -   🐍 **[Python Foundations](https://github.com/ibrahimkhank101/Python-Foundations-Practice)**: My practice with the core syntax and data structures of the Python language.
 
 ---
-📈 **My GitHub Stats:**
+💻 **My Core Languages:**
 
-[![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimkhank101&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkhank101&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
