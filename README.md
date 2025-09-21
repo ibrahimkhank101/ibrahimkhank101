@@ -16,8 +16,8 @@ I'm a 17-year-old pre-med student and aspiring AI engineer, applying my backgrou
 
 ### 🚀 Flagship Projects & Achievements
 
--   🏆 **[International Computer Science Competition (ICSC) 2025]([https://github.com/ibrahimkhank101/ICSC-2025-Qualification-Round](https://github.com/ibrahimkhank101/ICSC-2025))**: My successful submission for the Qualification Round, where I solved 5/5 problems and qualified for the pre-finals with special honours.
--   🧠 **[Stanford University Project: Nose Touch Detection]([https://github.com/ibrahimkhank101/nose-touch-detection](https://github.com/ibrahimkhank101/Hands-off-Nose))**: My final project for the **Stanford CIP 2025**, a real-time computer vision system built with OpenCV and MediaPipe to assist in post-operative patient care.
+-   🏆 **[International Computer Science Competition (ICSC) 2025]([https://github.com/ibrahimkhank101/ICSC-2025-Qualification-Round](https://github.com/ibrahimkhank101/ICSC-2025)**: My successful submission for the Qualification Round, where I solved 5/5 problems and qualified for the pre-finals with special honours.
+-   🧠 **[Stanford University Project: Nose Touch Detection]([https://github.com/ibrahimkhank101/nose-touch-detection](https://github.com/ibrahimkhank101/Hands-off-Nose)**: My final project for the **Stanford CIP 2025**, a real-time computer vision system built with OpenCV and MediaPipe to assist in post-operative patient care.
 
 ---
 
