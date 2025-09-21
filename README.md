@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Ibrahim Khan
+### 👋 Hi, I'm Muhammad Ibrahim
 
 <a href="https://www.linkedin.com/in/muhammad-ibrahim-a023ba30b/">
   <img align="left" alt="Ibrahim's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -10,27 +10,27 @@
 <br />
 <br />
 
-I'm a 17-year-old high school senior and aspiring AI Engineer with a passion for applying machine learning to solve real-world challenges, especially at the intersection of **AI and Healthcare**. My goal is to pursue a BSc in Artificial Intelligence at MBZUAI.
+I'm a 17-year-old pre-med student and aspiring AI engineer, applying my background in biology to solve human-centered challenges with technology. I am passionate about computer vision, NLP, and robotics.
 
 ---
 
-**🚀 What I'm Working On:**
+### 🚀 Flagship Projects & Achievements
 
-- 🧠 Diving deep into **Machine Learning fundamentals** and the mathematics behind them (Linear Algebra, Calculus, Probability).
-- 🛠️ Building practical projects with **Scikit-learn** and **OpenCV**.
-- 🩺 Developing a computer vision system to assist in post-surgical patient care.
-
-**💻 Tech Stack & Skills:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-272822?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+-   🏆 **[International Computer Science Competition (ICSC) 2025](https://github.com/ibrahimkhank101/ICSC-2025-Qualification-Round)**: My successful submission for the Qualification Round, where I solved 5/5 problems and qualified for the pre-finals with special honours.
+-   🧠 **[Stanford University Project: Nose Touch Detection](https://github.com/ibrahimkhank101/nose-touch-detection)**: My final project for the **Stanford CIP 2025**, a real-time computer vision system built with OpenCV and MediaPipe to assist in post-operative patient care.
 ---
 
-**📈 GitHub Stats:**
+### 📚 Foundational Skills Repositories
+
+These repositories document my hands-on learning journey through the core Python data science stack.
+
+-   👁️ **[OpenCV for Computer Vision](https://github.com/ibrahimkhank101/OpenCV-Computer-Vision-Practice)**: A visual portfolio of my practice with image processing, filtering, and feature detection.
+-   🐼 **[Pandas for Data Analysis](https://github.com/ibrahimkhank101/Pandas-Data-Analysis)**: My exercises in data cleaning, manipulation, and aggregation.
+-   🔢 **[NumPy for Scientific Computing](https://github.com/ibrahimkhank101/NumPy-Scientific-Computing)**: My practice with array manipulation, broadcasting, and high-performance numerical operations.
+-   📊 **[Matplotlib for Data Visualization](https://github.com/ibrahimkhank101/Matplotlib-Data-Visualization)**: My collection of scripts for creating various plot types and charts.
+-   🐍 **[Python Foundations](https://github.com/ibrahimkhank101/Python-Foundations-Practice)**: My practice with the core syntax and data structures of the Python language.
+
+---
+📈 **My GitHub Stats:**
 
 [![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimkhank101&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
